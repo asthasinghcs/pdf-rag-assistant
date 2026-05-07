@@ -46,3 +46,10 @@ pip install -r requirements.txt
 
 streamlit run app/[main.py](http://main.py)
 
+## Demo
+
+### Application UI
+![Demo UI](assets/demo-ui.png)
+
+### Question Answering Example
+![Answer Demo](assets/pdf-rag-answer-demo.png)
